@@ -1,12 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Vesai
+#### QA  and Software Docementation
+![QA  and Software Docementation](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Vesanie Marie M. Bernal, a graduating student taking Bachelor of Science in Information technology at Cavite State University 
-Here are some ideas to get you started:
+I'm Vesanie Marie M. Bernal, a graduating student at Cavite State University majoring Bachelor of Science in Information Technology. And I'm currently working as QA and Software Documentation at Valenin IT Solutions. 
 
-🔭 I’m currently working on ...
-🌱 I’m currently learning ...
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about ...
-📫 How to reach me: ...
-⚡ Fun fact: I hate Coding
+Skills: JAVA / PHP / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
